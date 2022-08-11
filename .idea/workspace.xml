@@ -5,47 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a4be73e4-056d-41fd-9de1-5dc5e5cdbeea" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/application/app_apple/api/api.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/api/route.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/proto/base.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/proto/proto.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/repo/model_user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/repo/model_user_other.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/repo/repo_user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/application/app_apple/service/service_user.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/config.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/global/infra/db.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/build.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils/proto_util.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/go_project_template.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/go_project_template.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_apple/global/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_apple/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/app_apple/internal/hi.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/applectl/applectl.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmd/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/err.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/init.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/apple_conf/config_example.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/banana_conf/config_example.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/config/apple.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/config/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy_test/config/apple.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy_test/config/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deploy_test/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/deployment/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/go.sum" beforeDir="false" afterPath="$PROJECT_DIR$/go.sum" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main/apple/main.go" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/application/app_banana/same_structure_as_apple" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/script/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/pkg_test/pkg_test.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/readme.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/file_util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/other_util.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/util/time_util.go" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +37,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2D99x6SX8hGQp1YevqwvacYDwek" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
@@ -94,7 +56,7 @@
     <property name="go.modules.go.list.on.any.changes.was.set" value="true" />
     <property name="go.sdk.automatically.set" value="true" />
     <property name="go.watchers.conflict.with.on.save.actions.check.performed" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/application/appA/repo" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="go.vgo" />
   </component>
   <component name="RecentsManager">
@@ -124,6 +86,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactor" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
